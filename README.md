@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/benhajduazure/AzureDevOpsTraining/_apis/build/status/benhajdu.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/benhajduazure/AzureDevOpsTraining/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
